@@ -102,7 +102,7 @@ export default function TaskForm() {
                         </div>
                     </div>
                 </div>
-                <button type="submit" className="btn btn-primary">Sign in</button>
+                <button type="submit" className="btn btn-primary">Kaydet</button>
             </form>
             <TaskList tasks={tasks} removeTask={removeTask} editTask={editTask} doneTask={doneTask} />
         </>
