@@ -1,8 +1,47 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React To Do List
 
-Currently, two official plugins are available:
+Bu proje, yapılacaklar listesi uygulamasıdır. React kullanılarak yapılmıştır
+## Neler Yapılabilir
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Yapacağınız görevleri yazılabilir
+
+- Düzenlenebilir
+
+- Öncelikli olarak işaretlenebilir
+
+- Öncelikli olarak işaretlenenler filtrelenilebilir
+
+- Bitti diye işaretlenebilir
+
+- Silebilirsiniz
+
+
+  
+## Bilgisayarınızda Çalıştırın
+
+Projeyi klonlayın
+
+```bash
+  git clone https://github.com/remolg/Todolist.git
+```
+
+Proje dizinine gidin ve çalıştırın
+
+```bash
+  cd "Todolist-main"
+```
+
+```bash
+  npm install
+```
+
+```bash
+  npm run dev
+``````
+
+Uygulama, http://localhost:3000 adresinde çalışacaktır.
+## Ekran Görüntüleri
+
+
+![Uygulama Ekran Görüntüsü](public/reacttodo.png)
