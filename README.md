@@ -1,32 +1,33 @@
 
 # React To Do List
 
-Bu proje, yapılacaklar listesi uygulamasıdır. React kullanılarak yapılmıştır
-## Neler Yapılabilir
+This project is a to-do list application. It was made using React
 
-- Yapacağınız görevleri yazılabilir
+## What Can Be Done
 
-- Düzenlenebilir
+- The tasks that you will perform can be written
 
-- Öncelikli olarak işaretlenebilir
+- Can be arranged
 
-- Öncelikli olarak işaretlenenler filtrelenilebilir
+- Can be marked as priority
 
-- Bitti diye işaretlenebilir
+- Those marked as priority can be filtered
 
-- Silebilirsiniz
+- It can be marked as finished
+
+- You can delete
 
 
   
-## Bilgisayarınızda Çalıştırın
+## Run It on Your Computer
 
-Projeyi klonlayın
+Clone the project
 
 ```bash
   git clone https://github.com/remolg/Todolist.git
 ```
 
-Proje dizinine gidin ve çalıştırın
+Go to the project directory and run
 
 ```bash
   cd "Todolist-main"
@@ -39,9 +40,11 @@ Proje dizinine gidin ve çalıştırın
 ```bash
   npm run dev
 ``````
-
 Uygulama, http://localhost:3000 adresinde çalışacaktır.
-## Ekran Görüntüleri
+
+## Or You can go by clicking on the link
+
+- [React Todo List](https://remolgtodolist.netlify.app/)
 
 
 ![Uygulama Ekran Görüntüsü](public/reacttodo.png)
